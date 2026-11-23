@@ -1,5 +1,7 @@
 # NientumPlayer 独立鉴赏器
 
+English: [README.en.md](README.en.md)
+
 《Nientum - Op.ZERO》桌面的 CG / 立绘 / 音乐鉴赏器。仓库里有两种实现：
 
 - `cpp/` — **当前发布版**（`NientumPlayer_v2.exe`，Win32 + Direct2D/D3D11 + WASAPI/Media Foundation，无第三方运行时依赖）
