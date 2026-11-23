@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+_verify/
+*.log
+*.obj
+*.pdb
+*.exe
+data/
+media/
+assets/
+音乐/
+CG/
+封面/
